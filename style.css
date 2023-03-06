@@ -71,3 +71,15 @@ footer {
   padding: 1rem;
   text-align: center;
 }
+
+.logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.logo-container img {
+  max-width: 100%;
+  max-height: 100%;
+}
