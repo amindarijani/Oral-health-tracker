@@ -11,7 +11,7 @@ Oral Health Tracker is a digital health tool designed to help users keep track o
 
 ## Installation
 
-To use the Oral Health Tracker, simply visit our website at [www.oralhealthtracker.com](https://www.oralhealthtracker.com) and sign up for an account.
+To use the Oral Health Tracker, simply visit our website at [oht.github.io](oht.github.io) and sign up for an account.
 
 ## Usage
 
